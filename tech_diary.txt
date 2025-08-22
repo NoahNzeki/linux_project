@@ -1,16 +1,9 @@
-=============================
-   Welcome to Tech Diary
-=============================
-
-     (\_/)
-     ( •_•)
-     / >🍪   "Linux is not just an OS, it’s a way of life."
-
 ===========================
          Profile
 ===========================
 Name: Evelyn Nzilani Muteti
 Roll Number: 123456
+---------------------------
 
 --------------------------------
    My Favorite Linux Commands
@@ -33,6 +26,17 @@ Roll Number: 123456
 16. tar     - Create, extract, or list archive files
 17. zip     - Create, extract, or list archive files
 18. gzip     - Compress or decompress files
+19. git      - A distributed version control system
+20. lsblk   - List block devices
+21. df      - Disk usage
+22. du      - Disk usage
+23. free    - Memory usage
+24. pwd     - Print the current working directory
+25. whoami  - Print the current user name
+26. date    - Print the current date and 15:05
+27. cal     - Print a calendar
+28. ping    - Send ICMP echo requests
+29. echo    - Display a line of text
 
 
  *******************************
