@@ -1,0 +1,50 @@
+=============================
+   Welcome to Tech Diary
+=============================
+
+     (\_/)
+     ( •_•)
+     / >🍪   "Linux is not just an OS, it’s a way of life."
+
+===========================
+         Profile
+===========================
+Name: Evelyn Nzilani Muteti
+Roll Number: 123456
+
+--------------------------------
+   My Favorite Linux Commands
+--------------------------------
+1. ls       - List directory contents
+2. cd       - Change directory
+3. mkdir    - Create a new directory
+4. cp       - Copy files or directories
+5. grep     - Search text in files
+6. mv       - Move or rename files or directories
+7. rm       - Remove files or directories
+8. chmod    - Change file permissions
+9. chown    - Change file owner
+10. clear   - Clear the terminal screen
+11. cat     - Concatenate files and print on the standard output
+12. less    - Display a file one screen at a time
+13. head    - Print the first 10 lines of a file
+14. tail    - Print the last 10 lines of a file
+15. wc      - Print the number of lines, words, and bytes in a file
+16. tar     - Create, extract, or list archive files
+17. zip     - Create, extract, or list archive files
+18. gzip     - Compress or decompress files
+
+
+ *******************************
+ *      Last 10 log            *
+ *******************************
+ 2010  ls
+ 2011  mkdir linux_project
+ 2012  cd linux_project/
+ 2013  touch profile.txt commands.txt log.txt
+ 2014  ls
+ 2015  nvim profile.txt 
+ 2016  nvim commands.txt 
+ 2017  history | tail -n 5 > log.txt
+ 2018  nvim log.txt 
+ 2019  history | tail -n 10 > log.txt

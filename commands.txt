@@ -1,0 +1,23 @@
+--------------------------------
+   My Favorite Linux Commands
+--------------------------------
+1. ls       - List directory contents
+2. cd       - Change directory
+3. mkdir    - Create a new directory
+4. cp       - Copy files or directories
+5. grep     - Search text in files
+6. mv       - Move or rename files or directories
+7. rm       - Remove files or directories
+8. chmod    - Change file permissions
+9. chown    - Change file owner
+10. clear   - Clear the terminal screen
+11. cat     - Concatenate files and print on the standard output
+12. less    - Display a file one screen at a time
+13. head    - Print the first 10 lines of a file
+14. tail    - Print the last 10 lines of a file
+15. wc      - Print the number of lines, words, and bytes in a file
+16. tar     - Create, extract, or list archive files
+17. zip     - Create, extract, or list archive files
+18. gzip     - Compress or decompress files
+
+

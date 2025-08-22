@@ -1,0 +1,13 @@
+ *******************************
+ *      Last 10 log            *
+ *******************************
+ 2010  ls
+ 2011  mkdir linux_project
+ 2012  cd linux_project/
+ 2013  touch profile.txt commands.txt log.txt
+ 2014  ls
+ 2015  nvim profile.txt 
+ 2016  nvim commands.txt 
+ 2017  history | tail -n 5 > log.txt
+ 2018  nvim log.txt 
+ 2019  history | tail -n 10 > log.txt
