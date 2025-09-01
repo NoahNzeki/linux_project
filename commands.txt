@@ -18,11 +18,13 @@
 15. wc      - Print the number of lines, words, and bytes in a file
 16. tar     - Create, extract, or list archive files
 17. zip     - Create, extract, or list archive files
-18. gzip     - Compress or decompress files
-19. git      - A distributed version control system
+18. gzip    - Compress or decompress files
+19. git     - A distributed version control system
 20. lsblk   - List block devices
 21. df      - Disk usage
+    df -h   - Human-readable disk usage
 22. du      - Disk usage
+    du -sh  - Human-readable disk usage (s - summary, h - human-readable)
 23. free    - Memory usage
 24. pwd     - Print the current working directory
 25. whoami  - Print the current user name
