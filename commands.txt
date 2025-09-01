@@ -32,5 +32,10 @@
 27. cal     - Print a calendar
 28. ping    - Send ICMP echo requests
 29. echo    - Display a line of text
+30. pkill   - Kill a process by name
+31. ps      - Process status
+32. top     - Interactive process viewer
+33. man     - Display the manual page for a command
+
 
 
