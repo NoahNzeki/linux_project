@@ -36,6 +36,16 @@
 31. ps      - Process status
 32. top     - Interactive process viewer
 33. man     - Display the manual page for a command
+34. sudo    - Execute a command with elevated privileges
+35. su     - Switch to another user
+36. shutdown - Power off the computer
+    shutdown -h now - Power off the computer immediately
+    shutdown -r now - Reboot the computer
+    shutdown -P +30 - Power off the computer in 30 minutes
+37. reboot  - Reboot the computer
+38. curl    - Transfer data from or to a server
+39. wget    - Download files from the web
+
 
 
 
