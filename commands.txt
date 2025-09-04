@@ -45,6 +45,8 @@
 37. reboot  - Reboot the computer
 38. curl    - Transfer data from or to a server
 39. wget    - Download files from the web
+40. ifconfig - Display network interface information
+41. nmap    - Network port scanner
 
 
 
